@@ -1,0 +1,19 @@
+	
+Decide which of two sentences is more metaphoric	
+"Choose ""1"" for Sentence 1, ""2"" for Sentence 2 and ""0"" for for none of them being metaphoric / equal metaphoricity"	
+	
+If one sentence is a Grenzfall and the other is clearly non-metaphoric, then choose the Grenzfall	
+	
+If one is a Grenzfall and the other is clearly metaphoric, choose the metaphoric one	
+	
+If both are metaphoric, choose the one which you find more metaphoric	
+	
+"If you find them to be both exactly equally metaphoric, choose ""0"". This includes the case where both are equally non-metaphoric and equal Grenzfälle."	
+	
+	
+Lines	Who?
+0-100	ALL
+101-140	Atyina
+141-180	Kristina
+181-220	Patrick
+221-	Benni
