@@ -2,7 +2,7 @@
 
 Deep learning for metaphor detection
 
-Supervisor: Dr. Steffen Eger - TU Darmstadt
+Supervisor: Dr. rer. pol. Steffen Eger - TU Darmstadt
 
 ![Logo](https://assets.ltkcontent.com/images/11687/analogy-metaphor-simile_0066f46bde.jpg)
 
